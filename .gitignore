@@ -1,0 +1,8 @@
+# Backend
+backend/node_modules/
+backend/db/*.db
+# Misc
+*.log
+.DS_Store
+.idea/
+.vscode/
